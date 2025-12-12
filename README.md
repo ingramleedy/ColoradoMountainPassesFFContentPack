@@ -5,8 +5,15 @@ This repository provides a **ForeFlight content pack** containing custom VFR GPS
 The content pack displays passes as a custom map layer in ForeFlight, integrating seamlessly with terrain, hazard advisor, profile view, and sectional charts for better route planning.
 
 <p align="center">
-  <img width="600" src="docs/img/CO-Passes-Screenshot.png" />
+  <img width="300" src="docs/img/CO-Passes-Screenshot.png" />
+  <img width="300" src="docs/img/CO-Passes-Map.png" />
 </p>
+
+
+  
+  
+
+
 
 
 
