@@ -4,6 +4,12 @@ This repository provides a **ForeFlight content pack** containing custom VFR GPS
 
 The content pack displays passes as a custom map layer in ForeFlight, integrating seamlessly with terrain, hazard advisor, profile view, and sectional charts for better route planning.
 
+<p align="center">
+  <img width="600" src="docs/img/CO-passes.png" />
+</p>
+
+
+
 ## Content Overview
 
 This content pack includes VFR waypoints for numerous Colorado mountain passes, drawn from the **Colorado Pilots Association (CPA)** comprehensive training materials and expanded to cover commonly flown routes. It includes both official CDOT/FAA-charted waypoints (added to sectionals in 2024 and available natively in ForeFlight) and additional user waypoints for passes frequently referenced in mountain flying education.
