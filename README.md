@@ -76,7 +76,7 @@ Detailed instructions: [ForeFlight Content Packs Support](https://www.foreflight
 4. Restart ForeFlight.
 5. On Maps view, select layer: Aero & Category → "Colorado Mountain Passes".
 
-**Download:** [CO-MountainPasses.zip](https://github.com/yourusername/ColoradoMountainFlying/releases/download/v2025.12.11/CO-MountainPasses.zip) *(Replace with actual repo link)*
+**Download:** [ColoradoMountainPassesFFContentPack.zip]([https://github.com/yourusername/ColoradoMountainFlying/releases/download/v2025.12.11/CO-MountainPasses.zip](https://github.com/ingramleedy/ColoradoMountainPassesFFContentPack/blob/main/ColoradoMountainPassesFFContentPack.zip)) *(Replace with actual repo link)*
 
 Note: Content packs require manual re-download for updates. Official CDOT waypoints update automatically via ForeFlight database downloads.
 
