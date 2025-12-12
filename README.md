@@ -27,6 +27,17 @@ This content pack includes VFR waypoints for numerous Colorado mountain passes, 
 
 Many official waypoints (e.g., for 10-20 key passes) are now integrated directly into ForeFlight via FAA updates. This custom pack supplements those with additional passes, detailed notes, and a dedicated overlay layer for quick reference.
 
+### Enhanced Usage with ForeFlight Hazard Advisor
+
+For optimal safety in mountain flying, use this content pack in conjunction with ForeFlight's **Hazard Advisor** feature. Hazard Advisor overlays color-coded terrain and obstacle alerts (red for within 100' of your altitude, yellow for within 1,000') on the map, helping you visualize clearance margins when planning routes over these passes. It also integrates with Profile View for a vertical cross-section of hazards along your flight path.
+
+- **Activation:** Enable Hazard Advisor in Map Settings > Layers > Hazard Advisor. Set your Hazard Altitude to match your planned crossing altitude (e.g., 1,000–2,000' above pass elevation).
+- **In-Flight Mode:** When airborne and GPS speed exceeds the activation threshold (default 60 kts), it auto-adjusts to your current altitude for real-time alerts.
+- **Subscription Note:** Hazard Advisor requires a ForeFlight **Essential** subscription or higher. For advanced options like custom hazard altitudes, consider Pro Plus or Performance plans.
+
+This combination allows you to cross-reference pass waypoints with dynamic hazard shading, ensuring you maintain safe margins in variable winds and terrain.
+
+
 ## Inspiration and Credits
 
 This content pack is inspired by and draws heavily from authoritative Colorado mountain flying resources:
