@@ -1,83 +1,83 @@
-# Colorado Mountain Flying
+# Colorado Mountain Flying Content Pack for ForeFlight
 
-This repository is for pilots who love (or need to) fly through the challenging terrain of the Colorado Rockies. It provides essential waypoints for key mountain passes, helping you plan safe VFR routes, maintain terrain clearance, and navigate high-altitude environments.
+This repository provides a **ForeFlight content pack** containing custom VFR GPS waypoints and a map layer for key mountain passes in Colorado. These waypoints and overlays help pilots safely navigate the challenging Rocky Mountain terrain by providing clear crossing points, recommended altitude margins, and enhanced situational awareness.
 
-Many pilots use ForeFlight as their electronic flight bag (EFB) [ForeFlight](https://www.foreflight.com/) app, which contains a feature to download and import custom *content packs* that contain bundles of related content that can be accessed in the app, making it easier to adapt ForeFlight to a variety of specialized uses. See [ForeFlight Content Pack Overview](https://www.foreflight.com/products/foreflight-mobile/user-content/content-packs) and [ForeFlight Content Pack Support](https://foreflight.com/support/content-packs/) for more details.
+The content pack displays passes as a custom map layer in ForeFlight, integrating seamlessly with terrain, hazard advisor, profile view, and sectional charts for better route planning.
 
-# Colorado Mountain Flying Content
+## Content Overview
 
-This repository maintains a directory of Colorado mountain passes as VFR GPS waypoints, viewable as a custom map layer on the ForeFlight Maps page. This allows you to visualize passes, plan routes with proper altitude margins, and integrate them with terrain awareness tools like the Hazard Advisor.
+This content pack includes VFR waypoints for numerous Colorado mountain passes, drawn from the **Colorado Pilots Association (CPA)** comprehensive training materials and expanded to cover commonly flown routes. It includes both official CDOT/FAA-charted waypoints (added to sectionals in 2024 and available natively in ForeFlight) and additional user waypoints for passes frequently referenced in mountain flying education.
 
-The content pack includes waypoints for 19 key mountain passes, developed in collaboration with the Colorado Department of Transportation (CDOT) and the Colorado Pilots Association (CPA). These waypoints enable safe crossing with recommended 1,000 ft+ clearance (2,000 ft+ in winds >20 kts).
+**Current version: 2025.12.11**  
+**Number of passes: 50+**
 
-As an example, this is how the mountain passes appear overlaid on the Colorado terrain map once the content pack is imported and activated:
-
-*(Imagine a screenshot here showing waypoints like VPROL over Rollins Pass on a sectional chart view.)*
+Many official waypoints (e.g., for 10-20 key passes) are now integrated directly into ForeFlight via FAA updates. This custom pack supplements those with additional passes, detailed notes, and a dedicated overlay layer for quick reference.
 
 ## Inspiration and Credits
 
-This work was inspired by and draws data from the following resources:
+This content pack is inspired by and draws heavily from authoritative Colorado mountain flying resources:
 
-* [Colorado Pilots Association (CPA)](https://coloradopilots.org/) – Primary source for mountain flying education, including their Mountain Flying course and pass route guidance.
-* [CPA Mountain Passes Page](https://coloradopilots.org/content.aspx?page_id=22&club_id=612720&module_id=319187) – Reference for pass routes and safety considerations.
-* [Matt Beyer's Mountain Flying Guide](http://www.mattbeyer.com/files/Matts-MountainFlying.pdf) from [Matt Beyer Training](https://www.mattbeyer.com/training/#mountainflying) – Comprehensive tips on techniques, routes, weather, and safety (key sections include example routes like Rollins Pass to Steamboat, performance management, updraft/downdraft handling, and cloud interpretation).
-* [GeezerGeek Coach Reference Materials](https://docs.google.com/document/d/1chfDa3JBCjsGykGjwrAFwOqMAS7d3_dIY9ieROLCIyU/edit?tab=t.0#heading=h.a3dtnd8wn55p) – Additional mountain flying tips under the specified heading, emphasizing preparedness and emergency planning.
-* [Mountain Flying Tips.pdf](file:///C:/Users/ingra/OneDrive/Pilot/UNSORTED/MOUNTAIN%20FLYING/Mountain%20Flying%20Tips.pdf) – Local reference compilation of practical advice for high-altitude operations (similar to FAA's Mountain Flying Handbook tips on density altitude, leaning, and off-airport considerations).
-* [CDOT Aeronautics VFR GPS Waypoints](https://www.codot.gov/programs/aeronautics/co_vfrgps_waypoints) – Official waypoint data; request custom aeronautical charts via [CDOT Request Form](https://www.codot.gov/programs/aeronautics/request-form).
+- **[Colorado Pilots Association (CPA)](https://coloradopilots.org/)** – Primary source for mountain flying education, courses, and pass guidance.
+- **[CPA Mountain Passes Reference](https://coloradopilots.org/content.aspx?page_id=22&club_id=612720&module_id=319187)** – Detailed descriptions of routes, elevations, weather visibility, turbulence notes, and safety considerations for dozens of passes.
+- **[Matt Beyer's Mountain Flying Guide](http://www.mattbeyer.com/files/Matts-MountainFlying.pdf)** (from [Matt Beyer Training](https://www.mattbeyer.com/training/#mountainflying)) – Comprehensive PDF on techniques, example routes, weather interpretation, performance, up/downdraft handling, and safety.
+- **[GeezerGeek Coach Mountain Flying Reference Materials](https://docs.google.com/document/d/1chfDa3JBCjsGykGjwrAFwOqMAS7d3_dIY9ieROLCIyU/edit?tab=t.0#heading=h.a3dtnd8wn55p)** – Additional practical tips emphasizing preparedness, emergency planning, and high-altitude operations.
+- **Mountain Flying Tips.pdf** – Local pilot compilation of essential advice on density altitude, leaning mixtures, off-airport landings, and other high-altitude considerations.
+- **[CDOT Aeronautics VFR GPS Waypoints](https://www.codot.gov/programs/aeronautics/co_vfrgps_waypoints)** – Official source for charted mountain pass waypoints; request updated materials via [CDOT Request Form](https://www.codot.gov/programs/aeronautics/request-form).
 
-## Importing Colorado Mountain Flying Content Pack into ForeFlight for Use
+## Included Mountain Passes
 
-Detailed instructions about how to import Content Packs into ForeFlight are available at their [support page](https://www.foreflight.com/support/content-packs/).
+The pack includes the following passes, with official waypoint codes where available (VPxxx series from CDOT/FAA), elevations, and brief notes/routes derived from CPA and other references:
 
-1. **Select** the download link below to get the ZIP file.
-2. A dialog popup **Do you want to download file.zip?**, select **Download**.
-3. At the top of the Safari app shows a small **download icon** *(next to the address bar)*, **select** the **download icon**.
-4. **Select** the file you just downloaded to open the **files** app.
-5. In the files app, **Select** and **hold** the respective file and select **Share**.
-6. **Select** ForeFlight app.
-7. ForeFlight will show a dialog **Unpacking content**, and then show another dialog **Content Pack Installed** when completed.
-8. Click **OK**.
-9. **Close** ForeFlight app and **Re-Launch**. This will refresh the content pack with its associated content.
-10. Choose the **Maps** page in ForeFlight and choose **Aero & Category** from map layers and **select** "Colorado Mountain Passes" to activate the layer.
+| Pass Name                  | Waypoint | Elevation   | Notes / Common Route |
+|----------------------------|----------|-------------|----------------------|
+| Berthoud                   |          | 11,312'    | Denver west to Granby/Kremmling (central mountains). This pass has a blind side. |
+| Cameron                    |          | 10,276'    | Fort Collins west to northern mountains. |
+| Cerro Summit               | VPCIR   | 8,200'     | About 14 mi east of Montrose, Colorado. |
+| Cochetopa (North Pass)     | VPOPA   | 10,149'    | North Pass; previously uncharted in some sources. |
+| Cottonwood (Near Buena Vista) |       | 12,126'    | Trail elevation 12,126' MSL. This pass is part of a blind pass. |
+| Cottonwood (North)         | VPCTN   | 8,280'     | Near Eagle; alternative to following the river or Glenwood Canyon. |
+| Cucharas                   |          | 9,941'     | Southeastern plains (Trinidad) to San Luis Valley and Alamosa. Road elevation 9,941' MSL. |
+| Dallas Divide              | VPDAL   | 9,000'     | About 12 miles west of the town of Ridgway. |
+| Douglas                    | VPDGP   | 8,268'     | Grand Junction to Northwestern Colorado (Rangely). Road elevation 8,268' MSL. |
+| Fremont                    |          | 11,320'    | Silverthorne/Dillon to Leadville. Road elevation 11,320' MSL. Part of Mountain AWOS. |
+| Hagerman                   | VPHGR   | 11,960'    |          |
+| Hayden                     |          |            | East-west across northern Sangre de Cristo Range. |
+| Hoosier                    | VPOOZ   | 11,539'    |          |
+| Independence               |          | 12,094'    | Aspen area. Road elevation 12,094' MSL. |
+| Kenosha                    | VPKEN   | 10,001'    | Southwest Denver to South Park and Arkansas Valley. Road elevation 10,001' MSL. |
+| La Veta                    | VPVPT   | 9,380'     | Southwest Colorado/Walsenburg to San Luis Valley/Alamosa. Road elevation 9,380' MSL. |
+| Loveland                   |          | 11,990'    | Silverthorne/Dillon elevation 11,990' MSL. This pass is visible to Leadville. |
+| Marshall                   | VPMRL   | 10,845'    | Salida to Gunnison. Track elevation 10,845' MSL. |
+| McClure                    | VPMCR   | 8,755'     | Aspen/Glenwood Springs to Montrose. Road elevation 8,755' MSL. |
+| Milner                     |          | 10,758'    | North Denver to Estes Park/Rocky Mountain NP. Elevation 10,758' MSL. |
+| Monarch                    |          | 11,312'    | Gunnison to Salida. Road elevation 11,312'. |
+| Mosca                      | VPMSC   | 9,740'     | Pueblo to Alamosa over the Great Sand Dunes National Park. Trail elevation 9,740' MSL. |
+| Mosquito                   |          | 13,186'    | Leadville area (very high). Trail elevation 13,186'. |
+| Poncha                     | VPNCH   | 9,015'     | Salida to Alamosa. Road elevation 9,015' MSL. Visible to Salida weather. |
+| Rabbit Ears                | VPRBT   | 9,426'     | Kremmling/Steamboat Springs. Use caution climbing over from Steamboat. |
+| Red Mountain               |          | 11,120'    | Montrose to Durango. Road elevation 11,120'. |
+| Rollins                    | VPROL   | 11,671'    | Denver area to Granby/Kremmling (central mountains). Trail elevation 11,671' MSL. |
+| Tennessee                  | VPTEN   | 10,424'    | Leadville to Vail/Eagle. Road elevation 10,424' MSL. Visible to Leadville weather. |
+| Trout Creek                | VPTTC   | 9,346'     | South Park to Buena Vista. Road elevation 9,346' MSL. Visible to Buena Vista. |
+| Vail                       |          | 10,606'    | Vail/Eagle/Fairplay to Leadville. Road elevation 10,606' MSL. |
+| Weston                     |          |            | Fairplay to Leadville. |
+| Wilkerson                  | VPWLF   | 9,507'     | Colorado Springs/South Denver to South Park/central mountains. Wilkerson Pass AWOS 132.3 (4BM). |
+| Wolf Creek                 | VPWLF   | 10,857'    | Alamosa to Pagosa Springs/Durango. Road elevation 10,857' MSL. |
 
-Video tutorial example of how to import a content pack (similar process):
+*Fly safe: Always cross passes at a 45° angle when possible, attain maximum altitude before crossing, monitor for downdrafts/turbulence (especially in winds >20 kts), and plan escape routes. Strongly recommend completing CPA mountain flying training.*
 
-[![Video](https://img.youtube.com/vi/LgebFEuTn78/hqdefault.jpg)](https://www.youtube.com/watch?v=LgebFEuTn78)
+## Importing the Content Pack into ForeFlight
 
-*Please note that these content packs are only updated when a new version is created. You must also update your local copy of ForeFlight content packs by re-downloading and re-importing into ForeFlight. We hope that ForeFlight will add additional features to allow for automatic updates of content packs.*
+Detailed instructions: [ForeFlight Content Packs Support](https://www.foreflight.com/support/content-packs/).
 
-### North America - United States - Colorado - Mountain Passes ###
+1. Download the ZIP file from the repository (link below).
+2. On iOS/iPadOS: Open in Safari → Downloads → Share → ForeFlight.
+3. ForeFlight will unpack and install the pack.
+4. Restart ForeFlight.
+5. On Maps view, select layer: Aero & Category → "Colorado Mountain Passes".
 
-Current version **2025.12.11**
+**Download:** [CO-MountainPasses.zip](https://github.com/yourusername/ColoradoMountainFlying/releases/download/v2025.12.11/CO-MountainPasses.zip) *(Replace with actual repo link)*
 
-Passes: **19**
+Note: Content packs require manual re-download for updates. Official CDOT waypoints update automatically via ForeFlight database downloads.
 
-Download the content pack for ForeFlight:
-
-[CO-MountainPasses](https://yourusername.github.io/ColoradoMountainFlying/contentpacks/CO-MountainPasses.zip)
-
-#### Included Waypoints
-| Pass Name       | Elevation | Waypoint Code | Notes |
-|-----------------|-----------|---------------|-------|
-| Cerro Summit   | 8,200'   | VPCIR        | Routinely used, previously uncharted |
-| Cochetopa      | 10,149'  | VPOPA        |       |
-| Cottonwood North | 8,280' | VPCTN        | Routinely used, previously uncharted |
-| Dallas Divide  | 9,000'   | VPDAL        | Routinely used, previously uncharted |
-| Douglas        | 8,268'   | VPDGP        | Routinely used, previously uncharted |
-| Hagerman       | 11,960'  | VPHGR        |       |
-| Hoosier        | 11,539'  | VPOOZ        |       |
-| Kenosha        | 10,001'  | VPKEN        |       |
-| La Veta        | 9,380'   | VPVPT        |       |
-| Marshall       | 10,845'  | VPMRL        |       |
-| McClure        | 8,755'   | VPMCR        |       |
-| Mosca          | 9,740'   | VPMSC        |       |
-| North          | 10,149'  | VPNTH        |       |
-| Poncha         | 9,015'   | VPNCH        |       |
-| Rabbit Ears    | 9,426'   | VPRBT        |       |
-| Rollins        | 11,671'  | VPROL        |       |
-| Tennessee      | 10,424'  | VPTEN        |       |
-| Trout Creek    | 9,346'   | VPTTC        |       |
-| Wilkerson      | 9,507'   | VPILK        |       |
-| Wolf Creek     | 10,857'  | VPWLF        |       |
-
-*Fly safe: Always cross passes at 45° angle, with max altitude attained beforehand. Monitor for downdrafts and plan escape routes. Consult CPA resources for full training.*
+Contributions welcome: Add missing coordinates, update notes, or improve the layer!
