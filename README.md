@@ -91,7 +91,7 @@ Detailed instructions: [ForeFlight Content Packs Support](https://www.foreflight
 2. On iOS/iPadOS: Open in Safari → Downloads → Share → ForeFlight.
 3. ForeFlight will unpack and install the pack.
 4. Restart ForeFlight.
-5. On Maps view, select layer: Aero & Category → "Colorado Mountain Passes".
+5. On Maps view, select layer: Aero & Category → "CO Mtn Routes" on left and "CO Mountain Passes" on right.
 
 **Download:** [ColoradoMountainPassesFFContentPack.zip](https://github.com/ingramleedy/ColoradoMountainPassesFFContentPack/blob/main/ColoradoMountainPassesFFContentPack.zip?raw=true) 
 Note: Content packs require manual re-download for updates. Official CDOT waypoints update automatically via ForeFlight database downloads.
